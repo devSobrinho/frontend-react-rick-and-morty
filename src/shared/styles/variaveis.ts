@@ -1,0 +1,26 @@
+export const variaveis = {
+  cores: {
+    vermelho: "#CD3131",
+    azul: "#173EA5",
+  },
+  elementos: {
+    agua: "#5090D6",
+    dragao: "#0B6DC3",
+    eletrico: "#F4D23C",
+    fada: "#EC8FE6",
+    fantasma: "#5269AD",
+    fogo: "#FF9D55",
+    gelo: "#73CEC0",
+    grama: "#63BC5A",
+    inseto: "#91C12F",
+    lutador: "#CE416B",
+    normal: "#919AA2",
+    noturno: "#5A5465",
+    metal: "#5A8EA2",
+    pedra: "#C5B78C",
+    psiquico: "#FA7179",
+    terrestre: "#D97845",
+    venenoso: "#B567CE",
+    voador: "#89AAE3",
+  },
+};
